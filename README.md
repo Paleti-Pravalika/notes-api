@@ -5,7 +5,8 @@ A REST API built with Python and FastAPI to create, read, update and delete note
 ## Tech Stack
 - Python
 - FastAPI
-- SQLite (coming soon)
+- SQLite
+- SQLAlchemy
 
 ## Endpoints
 - POST /notes — create a note
