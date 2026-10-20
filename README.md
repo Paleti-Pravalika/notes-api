@@ -19,3 +19,6 @@ A REST API built with Python and FastAPI to create, read, update and delete note
 1. Install packages: pip install fastapi uvicorn
 2. Run: python -m uvicorn main:app --reload
 3. Open: http://127.0.0.1:8000/docs
+## Live Demo
+API URL: https://notes-api-zxcw.onrender.com
+Docs: https://notes-api-zxcw.onrender.com/docs
